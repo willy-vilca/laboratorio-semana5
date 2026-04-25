@@ -1,1 +1,1 @@
-Bienvenidos al sistema de ventas resolviendo conflicto.
+Bienvenidos al sistema de la rama de feature/cambios-saludo.
